@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter Android Framework, Tensorflow, Google Cloud, Amazon Web Service**
 
-- 👯 I’m looking to collaborate on **Open to any Android Projects**
+- 👯 I’m looking to collaborate on ** any Android Projects and Full stack projects**
 
 - 🤝 I’m looking for help with [Wash it](https://github.com/DennisKabutu/washit.git)
 
